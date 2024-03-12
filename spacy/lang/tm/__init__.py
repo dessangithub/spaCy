@@ -14,7 +14,7 @@ class TurkmenDefaults(BaseDefaults):
 
 
 class Turkmen(Language):
-    lang = "tr"
+    lang = "tm"
     Defaults = TurkmenDefaults
 
 
