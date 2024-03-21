@@ -37,5 +37,4 @@ for abbr in _abbrev_exc:
         _exc[orth + "."] = [{ORTH: orth + ".", NORM: abbr[NORM]}]
 
 
-
 TOKENIZER_EXCEPTIONS = update_exc(BASE_EXCEPTIONS, _exc)

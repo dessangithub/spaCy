@@ -53,8 +53,7 @@ _ordinal_words = [
     "ýüzünji",
     "müňünji",
     "millionynjy",
-    "milliardynjy"
-    "trillionynjy",
+    "milliardynjy" "trillionynjy",
     "kwadrillionynjy",
     "kwintillionynjy",
 ]
