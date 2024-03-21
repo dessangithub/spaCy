@@ -417,6 +417,17 @@
             "has_examples": true
         },
         {
+            "code": "tm",
+            "name": "Turkmen",
+            "example": """ 
+            Halkyň guran Baky beýik binasy,
+            Berkarar döwletim, jigerim - janym.
+            Başlaryň täji sen, diller senasy
+            Dünýä dursun, sen dur, Türkmenistanym!
+            """,
+            "has_examples": true
+        },
+        {
             "code": "tt",
             "name": "Tatar",
             "has_examples": true
